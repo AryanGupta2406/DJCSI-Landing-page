@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(33, 12, 104);
+    text-shadow: -15px 5px 10px brown;
+}
+
+header {
+    padding: 40px;
+    background-image:url(background.jpg) ;
+}
+
+nav {
+    background-color:black;
+    overflow: hidden;
+    font-size: larger;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+.start{
+    font-size:xx-large;
+
+}
+
+main {
+    background-color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: xx-large;
+    padding: 20px;
+    background-color: burlywood;
+    text-decoration: underline;
+}
+.aim{
+    text-align: left;
+    font-size: xx-large;
+    background-color: transparent;
+}
+
+.capt{
+    font-size: xx-large;
+    font-weight: 700;
+    color:chocolate;
+}
+.message{
+    width:fit-content;
+    text-align: center;
+    margin-left:40%;
+}
+
+section {
+    min-height: 50vh;
+}
+
+video {
+    padding:15px;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family: cursive;
+    font-weight: 600;
+}
+.home{
+    text-align:center;
+    color: black;
+    font-size: xx-large;
+}
+.ourContact{
+    background-color: white;
+    text-align: center;
+}
+.buttons{
+    width: max-content;
+    font-size: x-large;
+    padding: 10px;
+    margin: 10px;
+}
+img {
+    padding: 10px;
+}
+
+
+footer {
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+    float:left;
+    color: white;
+}
