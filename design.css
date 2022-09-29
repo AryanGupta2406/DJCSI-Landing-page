@@ -23,8 +23,17 @@ nav {
     background-color:black;
     overflow: hidden;
     font-size: larger;
+    text-align: center;
+    
+
+    position: sticky;
+    top: 0;
+
 }
 
+nav :hover{
+    color: cyan;
+}
 nav a {
     text-decoration: none;
     padding: 20px;
@@ -104,8 +113,14 @@ p{
     padding: 10px;
     margin: 10px;
 }
-img {
+ img {
     padding: 10px;
+
+}
+img:hover{
+    border: 4px solid black;
+    border-radius: 10px;
+    
 }
 
 
