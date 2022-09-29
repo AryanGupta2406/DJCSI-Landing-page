@@ -33,13 +33,24 @@ nav a {
     color: white;
 }
 .start{
-    font-size:xx-large;
+    font-size:x-large;
 
 }
 
 main {
     background-color: white;
     text-align: center;
+}
+.interview{
+    text-align: left;
+    margin: 10px;
+    font-size: xx-large;
+}
+.drive{
+    font-family: fantasy;
+}
+.info{
+    text-align: left;
 }
 
 h2 {
